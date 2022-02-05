@@ -1,7 +1,7 @@
 import React, { Suspense } from "react";
 import { Canvas } from "react-three-fiber";
 import { OrbitControls, useGLTF } from "@react-three/drei";
-import model from "./assest/untitled.glb"
+import model from "./assest/room1/room.glb"
 
 function Model(props) {
   const { scene } = useGLTF(model);
