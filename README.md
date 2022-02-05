@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+demo:https://3d-room-tour.netlify.app/
+Transfer gltf to glb by blender
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
